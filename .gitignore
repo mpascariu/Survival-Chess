@@ -37,3 +37,6 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+
+ChessData/15_Million_Games_Chess_Database/*
